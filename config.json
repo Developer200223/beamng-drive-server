@@ -1,0 +1,8 @@
+{
+  "host": "0.0.0.0",
+  "port": 8080,
+  "server_name": "BeamNG Drive Codespaces Server",
+  "max_players": 32,
+  "mods_enabled": true,
+  "mod_directory": "./mods"
+}
